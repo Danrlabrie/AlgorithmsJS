@@ -1,0 +1,28 @@
+{
+  "name": "algorithmsjs",
+  "version": "1.0.0",
+  "description": "Javascript algorithms",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danrlabrie/AlgorithmsJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danrlabrie/AlgorithmsJS/issues"
+  },
+  "homepage": "https://github.com/Danrlabrie/AlgorithmsJS#readme",
+  "devDependencies": {
+    "babel-eslint": "^6.0.2",
+    "eslint": "^2.6.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^6.0.2",
+    "eslint": "^2.6.0"
+  }
+}
